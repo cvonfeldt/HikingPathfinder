@@ -1,17 +1,3 @@
-/*
- * main.cpp
- *
- * Implements a basic user interface for pathfinder.
- *
- * assignment: CSCI 262 Project - Pathfinder
- *
- * author: C. Painter-Wakefield
- *
- * last modified: 1/18/2020
- *
- * You should not need to modify anything in this file.
- */
-
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -21,7 +7,6 @@
 using namespace std;
 
 // utility method to obtain a filename and test that it is valid
-// should really use C++17's filesystem library!
 string get_file_name(string msg, bool input) {
     fstream file;
     ios_base::openmode mode;
