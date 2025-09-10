@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cofor/OneDrive/csci 262/Project 1/lodepng.h
+string.h
+-
+vector
+-
+string
+-
+lodepng.h
+C:/Users/cofor/OneDrive/csci 262/Project 1/lodepng.h
+iostream
+-
+lodepng.h
+C:/Users/cofor/OneDrive/csci 262/Project 1/lodepng.h
+
+C:/Users/cofor/OneDrive/csci 262/Project 1/pathfinder.cpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+cmath
+-
+pathfinder.h
+C:/Users/cofor/OneDrive/csci 262/Project 1/pathfinder.h
+
+C:/Users/cofor/OneDrive/csci 262/Project 1/pathfinder.h
+string
+-
+vector
+-
+cmath
+-
+picture.h
+C:/Users/cofor/OneDrive/csci 262/Project 1/picture.h
+
+C:/Users/cofor/OneDrive/csci 262/Project 1/picture.h
+lodepng.h
+C:/Users/cofor/OneDrive/csci 262/Project 1/lodepng.h
+string
+-
+vector
+-
+
