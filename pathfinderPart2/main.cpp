@@ -1,17 +1,3 @@
-/*
- * main.cpp
- *
- * Implements a basic user interface for pathfinder.
- *
- * assignment: CSCI 262 Project - Pathfinder
- *
- * author: C. Painter-Wakefield
- *
- * last modified: 1/18/2020
- *
- * You should not need to modify anything in this file.
- */
-
 #include <iostream>
 #include <string>
 #include <fstream>
