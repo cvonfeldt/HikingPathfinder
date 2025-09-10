@@ -1,13 +1,3 @@
-/*
-    pathfinder.cpp
-        
-    Method implementations for the pathfinder class.
-    
-    assignment: CSCI 262 Project - Pathfinder        
-
-    author: <Chandler VonFeldt>
-*/
-
 #include <iostream>
 #include <string>
 #include <fstream>
