@@ -1,0 +1,1 @@
+For hikers who want the most intuitive and efficient routes based on personally inputted terrain. Made to be easy to understand and follow, with an outputted file that is the exact same as the inputted one - except this one has a highlighted path that traces across it.
